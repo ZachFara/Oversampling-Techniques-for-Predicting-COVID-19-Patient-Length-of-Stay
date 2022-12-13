@@ -9,6 +9,8 @@ However, the data for this project cannot be shared publicly. Only the code and 
 
 Here is the results of sweeping for every combination of data, please view the WandB results
 
+Also when viewing the training notebooks beware of long training outputs, if you want to view the raw code it maybe ideal to download the notebook and turn off cell outputs.
+
 Raw training data:
 https://wandb.ai/zachs_team/keras_covid_project_imb?workspace=user-zfarahany
 
